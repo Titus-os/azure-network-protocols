@@ -46,7 +46,7 @@ Creating a resource group and deploying a Windows 10 VM and an Ubuntu VM in the 
 <br />
 
 <p>
-<img width="1906" height="479" alt="image" src="https://github.com/user-attachments/assets/5373c5a3-7bc6-435b-a199-40a3f3b463c0" />
+<img width="1846" height="770" alt="image" src="https://github.com/user-attachments/assets/dfb188a2-0b90-4f2b-af71-fd82b65bc399" />
 </p>
 <p>
 Establishing an SSH connection from the Windows 10 VM to the Ubuntu VM (using its private IP) and filtering for SSH traffic in Wireshark is essential for analyzing secure remote access. This step shows encrypted communication in action, reinforcing understanding of application-layer protocols and their traffic patterns.
