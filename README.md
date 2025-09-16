@@ -35,7 +35,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="911" height="174" alt="image" src="https://github.com/user-attachments/assets/2af991be-514a-4e55-8769-99e0e9dfe677" />
+<img width="996" height="221" alt="image" src="https://github.com/user-attachments/assets/eb9f3e8b-4989-40b2-90ac-e2fe17ee94cc" />
+
+
 </p>
 <p>
 2)Creating a resource group and deploying a Windows 10 VM and an Ubuntu VM in the same virtual network (VNet) and subnet is critical because it establishes the cloud infrastructure for the lab. Ensuring both VMs share the same VNet/subnet enables direct communication (e.g., via private IPs), which is essential for testing network protocols like ICMP and SSH.
