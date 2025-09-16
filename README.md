@@ -54,7 +54,7 @@ Establishing an SSH connection from the Windows 10 VM to the Ubuntu VM (using it
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1895" height="652" alt="image" src="https://github.com/user-attachments/assets/3f87ab56-fbbc-46d7-b309-f1469b7d1335" />
 </p>
 <p>
 Using nslookup to query the IP addresses of public websites (e.g., google.com, disney.com) and filtering for DNS traffic in Wireshark is key to understanding name resolution. This step illustrates how DNS queries and responses function, a fundamental aspect of network communication for accessing online resources.
