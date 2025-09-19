@@ -3,8 +3,7 @@
 </p>
 
 <h1>Observing Network Traffic Between Windows 10 & Ubuntu Microsoft Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
-During this lab, we configured two Microsoft Azure virtual machines within the same virtual network to ensure and maintain a secure connection, allowing us to monitor network traffic send between them.
+During this lab, we configured two Microsoft Azure virtual machines within the same virtual network to ensure and maintain a secure connection, allowing us to monitor network traffic sent between them.
 
 
 <h2>Environments and Technologies Used</h2>
