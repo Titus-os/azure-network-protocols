@@ -16,7 +16,7 @@ During this lab, we configured two Microsoft Azure virtual machines within the s
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 (21H2)
+- Windows 10 Pro (21H2)
 - Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
